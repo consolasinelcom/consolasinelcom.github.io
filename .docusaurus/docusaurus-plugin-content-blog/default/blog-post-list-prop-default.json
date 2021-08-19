@@ -1,0 +1,17 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Welcome",
+      "permalink": "/consolasinelcom/blog/welcome"
+    },
+    {
+      "title": "Hello",
+      "permalink": "/consolasinelcom/blog/hello-world"
+    },
+    {
+      "title": "Hola",
+      "permalink": "/consolasinelcom/blog/hola"
+    }
+  ]
+}
