@@ -4,215 +4,215 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/consolasinelcom/',
-    component: ComponentCreator('/consolasinelcom/','c84'),
+    path: '/',
+    component: ComponentCreator('/','deb'),
     exact: true
   },
   {
-    path: '/consolasinelcom/acrel',
-    component: ComponentCreator('/consolasinelcom/acrel','a91'),
+    path: '/acrel',
+    component: ComponentCreator('/acrel','c75'),
     exact: true
   },
   {
-    path: '/consolasinelcom/adif',
-    component: ComponentCreator('/consolasinelcom/adif','345'),
+    path: '/adif',
+    component: ComponentCreator('/adif','87f'),
     exact: true
   },
   {
-    path: '/consolasinelcom/adifssfo',
-    component: ComponentCreator('/consolasinelcom/adifssfo','7da'),
+    path: '/adifssfo',
+    component: ComponentCreator('/adifssfo','f96'),
     exact: true
   },
   {
-    path: '/consolasinelcom/blog',
-    component: ComponentCreator('/consolasinelcom/blog','4df'),
+    path: '/blog',
+    component: ComponentCreator('/blog','569'),
     exact: true
   },
   {
-    path: '/consolasinelcom/blog/hello-world',
-    component: ComponentCreator('/consolasinelcom/blog/hello-world','d9b'),
+    path: '/blog/hello-world',
+    component: ComponentCreator('/blog/hello-world','07a'),
     exact: true
   },
   {
-    path: '/consolasinelcom/blog/hola',
-    component: ComponentCreator('/consolasinelcom/blog/hola','ea7'),
+    path: '/blog/hola',
+    component: ComponentCreator('/blog/hola','6e6'),
     exact: true
   },
   {
-    path: '/consolasinelcom/blog/tags',
-    component: ComponentCreator('/consolasinelcom/blog/tags','951'),
+    path: '/blog/tags',
+    component: ComponentCreator('/blog/tags','e13'),
     exact: true
   },
   {
-    path: '/consolasinelcom/blog/tags/docusaurus',
-    component: ComponentCreator('/consolasinelcom/blog/tags/docusaurus','917'),
+    path: '/blog/tags/docusaurus',
+    component: ComponentCreator('/blog/tags/docusaurus','738'),
     exact: true
   },
   {
-    path: '/consolasinelcom/blog/tags/facebook',
-    component: ComponentCreator('/consolasinelcom/blog/tags/facebook','3fc'),
+    path: '/blog/tags/facebook',
+    component: ComponentCreator('/blog/tags/facebook','2fe'),
     exact: true
   },
   {
-    path: '/consolasinelcom/blog/tags/hello',
-    component: ComponentCreator('/consolasinelcom/blog/tags/hello','f4e'),
+    path: '/blog/tags/hello',
+    component: ComponentCreator('/blog/tags/hello','263'),
     exact: true
   },
   {
-    path: '/consolasinelcom/blog/tags/hola',
-    component: ComponentCreator('/consolasinelcom/blog/tags/hola','311'),
+    path: '/blog/tags/hola',
+    component: ComponentCreator('/blog/tags/hola','8b3'),
     exact: true
   },
   {
-    path: '/consolasinelcom/blog/welcome',
-    component: ComponentCreator('/consolasinelcom/blog/welcome','c37'),
+    path: '/blog/welcome',
+    component: ComponentCreator('/blog/welcome','015'),
     exact: true
   },
   {
-    path: '/consolasinelcom/controldeaccesos',
-    component: ComponentCreator('/consolasinelcom/controldeaccesos','f4a'),
+    path: '/controldeaccesos',
+    component: ComponentCreator('/controldeaccesos','e51'),
     exact: true
   },
   {
-    path: '/consolasinelcom/intro',
-    component: ComponentCreator('/consolasinelcom/intro','60e'),
+    path: '/intro',
+    component: ComponentCreator('/intro','eb3'),
     exact: true
   },
   {
-    path: '/consolasinelcom/lintya',
-    component: ComponentCreator('/consolasinelcom/lintya','c1c'),
+    path: '/lintya',
+    component: ComponentCreator('/lintya','912'),
     exact: true
   },
   {
-    path: '/consolasinelcom/multiplexores',
-    component: ComponentCreator('/consolasinelcom/multiplexores','027'),
+    path: '/multiplexores',
+    component: ComponentCreator('/multiplexores','0f5'),
     exact: true
   },
   {
-    path: '/consolasinelcom/proyectosadif',
-    component: ComponentCreator('/consolasinelcom/proyectosadif','a1f'),
+    path: '/proyectosadif',
+    component: ComponentCreator('/proyectosadif','2cd'),
     exact: true
   },
   {
-    path: '/consolasinelcom/proyectosree',
-    component: ComponentCreator('/consolasinelcom/proyectosree','2cd'),
+    path: '/proyectosree',
+    component: ComponentCreator('/proyectosree','4ea'),
     exact: true
   },
   {
-    path: '/consolasinelcom/proyectostelefonica',
-    component: ComponentCreator('/consolasinelcom/proyectostelefonica','0b4'),
+    path: '/proyectostelefonica',
+    component: ComponentCreator('/proyectostelefonica','756'),
     exact: true
   },
   {
-    path: '/consolasinelcom/ree',
-    component: ComponentCreator('/consolasinelcom/ree','ab6'),
+    path: '/ree',
+    component: ComponentCreator('/ree','032'),
     exact: true
   },
   {
-    path: '/consolasinelcom/reesstg',
-    component: ComponentCreator('/consolasinelcom/reesstg','0de'),
+    path: '/reesstg',
+    component: ComponentCreator('/reesstg','637'),
     exact: true
   },
   {
-    path: '/consolasinelcom/sondas',
-    component: ComponentCreator('/consolasinelcom/sondas','249'),
+    path: '/sondas',
+    component: ComponentCreator('/sondas','25f'),
     exact: true
   },
   {
-    path: '/consolasinelcom/telefonica',
-    component: ComponentCreator('/consolasinelcom/telefonica','0f6'),
+    path: '/telefonica',
+    component: ComponentCreator('/telefonica','183'),
     exact: true
   },
   {
-    path: '/consolasinelcom/telxius',
-    component: ComponentCreator('/consolasinelcom/telxius','9bd'),
+    path: '/telxius',
+    component: ComponentCreator('/telxius','246'),
     exact: true
   },
   {
-    path: '/consolasinelcom/tpfo',
-    component: ComponentCreator('/consolasinelcom/tpfo','a0f'),
+    path: '/tpfo',
+    component: ComponentCreator('/tpfo','f6f'),
     exact: true
   },
   {
-    path: '/consolasinelcom/urtt',
-    component: ComponentCreator('/consolasinelcom/urtt','e0f'),
+    path: '/urtt',
+    component: ComponentCreator('/urtt','a99'),
     exact: true
   },
   {
-    path: '/consolasinelcom/usc5g',
-    component: ComponentCreator('/consolasinelcom/usc5g','23e'),
+    path: '/usc5g',
+    component: ComponentCreator('/usc5g','b02'),
     exact: true
   },
   {
-    path: '/consolasinelcom/uscfusibles',
-    component: ComponentCreator('/consolasinelcom/uscfusibles','d64'),
+    path: '/uscfusibles',
+    component: ComponentCreator('/uscfusibles','bb5'),
     exact: true
   },
   {
-    path: '/consolasinelcom/usetesa',
-    component: ComponentCreator('/consolasinelcom/usetesa','c85'),
+    path: '/usetesa',
+    component: ComponentCreator('/usetesa','b35'),
     exact: true
   },
   {
-    path: '/consolasinelcom/utilidades',
-    component: ComponentCreator('/consolasinelcom/utilidades','91f'),
+    path: '/utilidades',
+    component: ComponentCreator('/utilidades','07e'),
     exact: true
   },
   {
-    path: '/consolasinelcom/docs',
-    component: ComponentCreator('/consolasinelcom/docs','eff'),
+    path: '/docs',
+    component: ComponentCreator('/docs','87d'),
     routes: [
       {
-        path: '/consolasinelcom/docs/intro',
-        component: ComponentCreator('/consolasinelcom/docs/intro','3f9'),
+        path: '/docs/intro',
+        component: ComponentCreator('/docs/intro','aed'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/consolasinelcom/docs/tutorial-basics/congratulations',
-        component: ComponentCreator('/consolasinelcom/docs/tutorial-basics/congratulations','693'),
+        path: '/docs/tutorial-basics/congratulations',
+        component: ComponentCreator('/docs/tutorial-basics/congratulations','793'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/consolasinelcom/docs/tutorial-basics/create-a-blog-post',
-        component: ComponentCreator('/consolasinelcom/docs/tutorial-basics/create-a-blog-post','03d'),
+        path: '/docs/tutorial-basics/create-a-blog-post',
+        component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post','68e'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/consolasinelcom/docs/tutorial-basics/create-a-document',
-        component: ComponentCreator('/consolasinelcom/docs/tutorial-basics/create-a-document','ee0'),
+        path: '/docs/tutorial-basics/create-a-document',
+        component: ComponentCreator('/docs/tutorial-basics/create-a-document','c2d'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/consolasinelcom/docs/tutorial-basics/create-a-page',
-        component: ComponentCreator('/consolasinelcom/docs/tutorial-basics/create-a-page','1ed'),
+        path: '/docs/tutorial-basics/create-a-page',
+        component: ComponentCreator('/docs/tutorial-basics/create-a-page','f44'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/consolasinelcom/docs/tutorial-basics/deploy-your-site',
-        component: ComponentCreator('/consolasinelcom/docs/tutorial-basics/deploy-your-site','734'),
+        path: '/docs/tutorial-basics/deploy-your-site',
+        component: ComponentCreator('/docs/tutorial-basics/deploy-your-site','e46'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/consolasinelcom/docs/tutorial-basics/markdown-features',
-        component: ComponentCreator('/consolasinelcom/docs/tutorial-basics/markdown-features','3cf'),
+        path: '/docs/tutorial-basics/markdown-features',
+        component: ComponentCreator('/docs/tutorial-basics/markdown-features','4b7'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/consolasinelcom/docs/tutorial-extras/manage-docs-versions',
-        component: ComponentCreator('/consolasinelcom/docs/tutorial-extras/manage-docs-versions','815'),
+        path: '/docs/tutorial-extras/manage-docs-versions',
+        component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions','fdd'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/consolasinelcom/docs/tutorial-extras/translate-your-site',
-        component: ComponentCreator('/consolasinelcom/docs/tutorial-extras/translate-your-site','e9d'),
+        path: '/docs/tutorial-extras/translate-your-site',
+        component: ComponentCreator('/docs/tutorial-extras/translate-your-site','2d7'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }

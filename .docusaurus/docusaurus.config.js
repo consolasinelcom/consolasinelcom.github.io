@@ -2,7 +2,7 @@ export default {
   "title": "Consolas y manuales instalaciones",
   "tagline": "",
   "url": "https://consolasinelcom.github.io",
-  "baseUrl": "/consolasinelcom/",
+  "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/logop.png",
