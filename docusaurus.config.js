@@ -5,13 +5,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Consolas y manuales instalaciones',
   tagline: '',
-  url: 'https://consolasinelcom-github.io',
+  url: 'https://consolasinelcom.github.io',
   baseUrl: '/consolasinelcom/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logop.png',
   organizationName: 'consolasinelcom', // Usually your GitHub org/user name.
-  projectName: 'consolasinelcom', // Usually your repo name.
+  projectName: 'consolasinelcom.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Empresas',

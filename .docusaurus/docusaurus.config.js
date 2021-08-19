@@ -1,13 +1,13 @@
 export default {
   "title": "Consolas y manuales instalaciones",
   "tagline": "",
-  "url": "https://consolasinelcom-github.io",
+  "url": "https://consolasinelcom.github.io",
   "baseUrl": "/consolasinelcom/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/logop.png",
   "organizationName": "consolasinelcom",
-  "projectName": "consolasinelcom",
+  "projectName": "consolasinelcom.github.io",
   "themeConfig": {
     "navbar": {
       "title": "Empresas",
