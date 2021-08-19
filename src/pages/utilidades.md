@@ -1,0 +1,4 @@
+#### - WinRAR [x64](https://drive.google.com/file/d/1x4ZtU4GA_6xGl-vPNXzJh8sjZYwojDS2/view?usp=sharing)   [x32](https://drive.google.com/file/d/1pGsFd6wtCI5xmdLO0y0qP98J_Ja27U00/view?usp=sharing)
+#### - Putty [x64](https://drive.google.com/file/d/1s4ojMF_79lG9NgjT2gmYC0zo0m-FWqwA/view?usp=sharing)   [x32](https://drive.google.com/file/d/1X1lidwwa0Bo4GDc_3WojeStV6-N2wVg0/view?usp=sharing)
+#### - [Hyperterminal](https://drive.google.com/drive/folders/1WwK7gcUvpoBbJc9axAlcTeqjUq-G7hQl?usp=sharing)
+#### - Java [x64](https://drive.google.com/file/d/1_StD9GFDUcVcWsHiP4952_gHWm3WF_pJ/view?usp=sharing)

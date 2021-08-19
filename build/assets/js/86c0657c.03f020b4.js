@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7703],{2833:function(s){s.exports=JSON.parse('{"allTagsPath":"/consolasinelcom/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/consolasinelcom/blog/tags/hola"}')}}]);
