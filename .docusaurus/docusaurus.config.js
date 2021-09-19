@@ -32,6 +32,11 @@ export default {
           "position": "left"
         },
         {
+          "to": "/riego",
+          "label": "Riego",
+          "position": "left"
+        },
+        {
           "to": "/lintya",
           "label": "Lintya",
           "position": "left"
@@ -44,6 +49,11 @@ export default {
         {
           "to": "/utilidades",
           "label": "Utilidades",
+          "position": "left"
+        },
+        {
+          "to": "/listatelefonos",
+          "label": "Teléfonos de interes",
           "position": "left"
         }
       ],
@@ -270,7 +280,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/Users/kstromeiraos/Downloads/new/consolasinelcom.github.io/sidebars.js",
+          "sidebarPath": "/Users/kstromeiraos/Git/personal/consolasinelcom.github.io/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/"
         },
         "blog": {
@@ -278,7 +288,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/"
         },
         "theme": {
-          "customCss": "/Users/kstromeiraos/Downloads/new/consolasinelcom.github.io/src/css/custom.css"
+          "customCss": "/Users/kstromeiraos/Git/personal/consolasinelcom.github.io/src/css/custom.css"
         }
       }
     ]

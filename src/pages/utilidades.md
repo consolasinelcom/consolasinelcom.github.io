@@ -2,3 +2,4 @@
 #### - Putty [x64](https://drive.google.com/file/d/1s4ojMF_79lG9NgjT2gmYC0zo0m-FWqwA/view?usp=sharing)   [x32](https://drive.google.com/file/d/1X1lidwwa0Bo4GDc_3WojeStV6-N2wVg0/view?usp=sharing)
 #### - [Hyperterminal](https://drive.google.com/drive/folders/1WwK7gcUvpoBbJc9axAlcTeqjUq-G7hQl?usp=sharing)
 #### - Java [x64](https://drive.google.com/file/d/1_StD9GFDUcVcWsHiP4952_gHWm3WF_pJ/view?usp=sharing)
+#### - [Adobe Acrobat Reader](https://drive.google.com/file/d/1yBOweocdAg1v81WfT57p07DDtee4EQOG/view?usp=sharing)

@@ -34,6 +34,11 @@ module.exports = {
           to: '/proyectosadif',
           label: 'ADIF',
           position: 'left'
+        },        
+        {
+          to: '/riego',
+          label: 'Riego',
+          position: 'left'
         },
         {
           to: '/lintya',
@@ -49,7 +54,12 @@ module.exports = {
           to: '/utilidades',
           label: 'Utilidades',
           position: 'left'
-        }
+        },
+        {
+          to: '/listatelefonos',
+          label: 'Teléfonos de interes',
+          position: 'left'
+        },
       ],
     },
     footer: {
